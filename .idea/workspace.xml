@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7517cc99-5663-44c9-ba7a-a0d6265ccb2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gi9e2e7dM43vNl9KDQXn5ywHuA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.28" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01-webpack的使用" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\李梦笑\WebstormProjects\lesson02\01-webpack的使用\03-webpack的loader\img" />
+      <recent name="C:\Users\李梦笑\WebstormProjects\lesson02\01-webpack的使用\03-webpack的loader\src" />
+      <recent name="C:\Users\李梦笑\WebstormProjects\lesson02\01-webpack的使用\03-webpack的loader\src\js" />
+      <recent name="C:\Users\李梦笑\WebstormProjects\lesson02\01-webpack的使用\02-webpack的配置" />
+      <recent name="C:\Users\李梦笑\WebstormProjects\lesson02\01-webpack的使用\02-webpack的配置\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\李梦笑\WebstormProjects\lesson02\01-webpack的使用" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7517cc99-5663-44c9-ba7a-a0d6265ccb2d" name="Default Changelist" comment="" />
+      <created>1598586637431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598586637431</updated>
+      <workItem from="1598586638510" duration="1711000" />
+      <workItem from="1598588381325" duration="671000" />
+      <workItem from="1598590313966" duration="746000" />
+      <workItem from="1598595187939" duration="32000" />
+      <workItem from="1598595311703" duration="673000" />
+      <workItem from="1598596039565" duration="2583000" />
+      <workItem from="1598612030788" duration="1128000" />
+      <workItem from="1598623674188" duration="7941000" />
+      <workItem from="1598700887435" duration="4163000" />
+      <workItem from="1598762170967" duration="1526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1162" y="487" key="#Usage_Scope" timestamp="1598588626501">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1162" y="487" key="#Usage_Scope/0.0.1920.1050@0.0.1920.1050" timestamp="1598588626501" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598597976030">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598597976030" />
+    <state x="1147" y="376" key="FileChooserDialogImpl" timestamp="1598588296812">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1147" y="376" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598588296812" />
+    <state x="658" y="242" width="998" height="708" key="SettingsEditor" timestamp="1598595986603">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="658" y="242" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1598595986603" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598587605319">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598587605319" />
+  </component>
+</project>
